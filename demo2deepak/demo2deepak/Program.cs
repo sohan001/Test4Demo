@@ -17,9 +17,18 @@ namespace demo2deepak
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+<<<<<<< HEAD
             // code willl come here todo
             // We are changing on Branch1 code
             // Changing on Branch from Sohan
+=======
+            // code willl come here todo by SOHAN
+            // We are changing on Branch1 code by Deepak
+            // changing this line again by Deepak 
+             // Changing again by sohan...
+            // Changing again (2) by Sohan Singh
+            // changing here on MASTER by deepak
+>>>>>>> refs/remotes/origin/master
         }
     }
 }
