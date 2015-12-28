@@ -17,7 +17,7 @@ namespace demo2deepak
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-            // code willl come here todo
+            // code willl come here todo by Sohan
         }
     }
 }
