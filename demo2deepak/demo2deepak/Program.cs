@@ -21,11 +21,18 @@ namespace demo2deepak
             // code willl come here todo by SOHAN
             // We are changing on Branch1 code by Deepak
             // changing this line again by Deepak 
-             // Changing again by sohan...
+            // Changing again by sohan...
             // Changing again (2) by Sohan Singh
             // changing here on MASTER by deepak
 
             // Branch code that needs to merge on master...
 
+            test();
         }
+
+        //This method implemented on MASTER
+        private static void test()
+        { }
+    }
+
     }
