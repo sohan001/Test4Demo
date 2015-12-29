@@ -25,7 +25,7 @@ namespace demo2deepak
             // Changing again (2) by Sohan Singh
             // changing here on MASTER by deepak
 
-            // Branch code that needs to merge on master...
+            // Branch code that needs to merge on master... on deepak's acccount
 
         }
     }
