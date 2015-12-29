@@ -28,11 +28,16 @@ namespace demo2deepak
             // Branch code that needs to merge on master...on sohan's acccount
             // Macknig some changes on Branch
             testmethod();
+            testmethod2();
         }
 
+        // This method is added on Branch
         private static void testmethod()
         { }
 
-    
+        // This method is added on Branch
+        private static void testmethod2()
+        { }
+
     }
 }
