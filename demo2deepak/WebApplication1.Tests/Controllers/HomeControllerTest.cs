@@ -11,7 +11,7 @@ namespace WebApplication1.Tests.Controllers
         [TestMethod]
         public void Index()
         {
-            // Arrange
+            // Creating instance on MAster
             HomeController controller = new HomeController();
 
             // Act
