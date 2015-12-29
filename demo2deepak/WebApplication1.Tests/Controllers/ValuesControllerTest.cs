@@ -16,7 +16,7 @@ namespace WebApplication1.Tests.Controllers
         [TestMethod]
         public void Get()
         {
-            // Arrange
+            // Creating instnace of controller
             ValuesController controller = new ValuesController();
 
             // Act

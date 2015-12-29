@@ -11,6 +11,7 @@ namespace WebApplication1
 {
     public class WebApiApplication : System.Web.HttpApplication
     {
+        // Application starting point
         protected void Application_Start()
         {
             AreaRegistration.RegisterAllAreas();
