@@ -8,6 +8,7 @@ namespace WebApplication1.Controllers
 {
     public class HomeController : Controller
     {
+        // Index action of home controller
         public ActionResult Index()
         {
             ViewBag.Title = "Home Page";
